@@ -1,0 +1,21 @@
+
+#hiden{
+   display : none;
+}
+
+#hiden_2{
+   display : none;
+}
+
+.card {
+/*   z-index: 600;
+   height: 600px;
+   width: 50%;
+   height: 450px;
+   box-shadow: 5px 10px 10px 10px rgba(0, 0, 0, 0.055);
+   border-radius: 15px;*/
+   background-color: mintcream;
+/*   top: 300px;
+   left: 500px;
+   position: absolute;*/
+}
